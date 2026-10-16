@@ -1,0 +1,63 @@
+﻿test_id,surum,ortalama_benzerlik,cikti_1,cikti_2,cikti_3
+T1,v1,0.55,"Belediye tarafından 85 milyon liraya yapılan ve 15 Kasım'da açılacak olan yeni şehir kütüphanesi; 2.500 m² alanda 40.000 kitap, çalışma salonu ve çocuk bölümüyle hizmet verecek. Kütüphanenin çalışma saatleri hafta içi 08.00-22.00, hafta sonu ise 10.00-18.00 arası olacak.","Belediye tarafından 85 milyon lira maliyetle inşa edilen yeni şehir kütüphanesi, 15 Kasım'da hizmete girecektir. 2.500 metrekarelik alanda kurulan tesiste 40.000 kitap, 120 kişilik çalışma salonu ve çocuk okuma bölümü yer almakta olup, hafta içi ve hafta sonu belirlenen saatlerde hizmet verecektir.","Belediye tarafından 85 milyon lira maliyetle inşa edilen yeni şehir kütüphanesi, 15 Kasım'da hizmete açılacak. 2.500 metrekarelik alanda 40.000 kitap, çalışma salonu ve çocuk okuma bölümü barındıran kütüphane, hafta içi 08.00-22.00, hafta sonu 10.00-18.00 saatleri arasında açık olacak."
+T1,v2,0.8,"Belediye tarafından tamamlanan yeni şehir kütüphanesi, 15 Kasım'da vatandaşların hizmetine açılacak.
+
+- 2.500 metrekarelik alana kurulan kütüphanede 40.000 basılı kitap yer alıyor.
+- Tesiste 120 kişilik çalışma salonu ve çocuklar için ayrı bir okuma bölümü bulunuyor.
+- Kütüphane hafta içi 08.00-22.00, hafta sonu 10.00-18.00 saatleri arasında hizmet verecek.
+- Projenin toplam maliyeti 85 milyon lira olup tamamen belediye bütçesinden karşılandı.","Belediye tarafından tamamlanan yeni şehir kütüphanesi, 15 Kasım'da vatandaşların hizmetine açılacak.
+
+- 2.500 metrekarelik alana kurulan kütüphanede 40.000 basılı kitap yer alıyor.
+- Tesiste 120 kişilik çalışma salonu ve çocuklar için ayrı bir okuma bölümü bulunuyor.
+- Hafta içi 08.00-22.00, hafta sonu ise 10.00-18.00 saatleri arasında açık olacak.
+- Projenin toplam maliyeti 85 milyon lira olup, tamamen belediye bütçesinden karşılandı.","Belediye tarafından tamamlanan yeni şehir kütüphanesi, 15 Kasım'da vatandaşların hizmetine açılacak.
+
+- Kütüphane 2.500 metrekarelik alanda kurulmuştur ve 40.000 basılı kitap barındırmaktadır.
+- Tesiste 120 kişilik çalışma salonu ve çocuklar için ayrı bir okuma bölümü yer almaktadır.
+- Ziyaret saatleri hafta içi 08.00-22.00, hafta sonu ise 10.00-18.00 olarak belirlenmiştir.
+- Projenin toplam maliyeti 85 milyon lira olup, tamamen belediye bütçesinden karşılanmıştır."
+T3,v1,0.35,"**Özet:**
+
+TCP ve UDP, taşıma katmanının iki temel protokolüdür. **TCP**, bağlantı kurarak güvenli, sıralı ve kayıpsız veri iletimi sağlar; ancak bu durum gecikmeye yol açar. **UDP** ise bağlantısız ve kontrolsüz yapısıyla hız odaklıdır; bu nedenle görüntülü görüşme ve oyun gibi düşük gecikme gerektiren alanlarda tercih edilir.","**Özet:**
+
+TCP, bağlantı tabanlı, güvenilir ancak daha yavaş bir protokol olup, veri bütünlüğünün önemli olduğu durumlarda kullanılır. UDP ise bağlantısız, hızlı ancak garantisiz bir yapıya sahip olup, görüntülü görüşme ve oyun gibi düşük gecikme gerektiren alanlarda tercih edilir.","**Özet:**
+
+TCP ve UDP, taşıma katmanının iki temel protokolüdür. **TCP**, bağlantı kurarak güvenli, sıralı ve kayıpsız veri iletimi sağlar; ancak bu ek bir gecikme yaratır. **UDP** ise bağlantısız çalışarak hız ve düşük gecikme sunar, bu nedenle görüntülü görüşme ve çevrim içi oyunlarda tercih edilir."
+T3,v2,0.3,"TCP ve UDP, güvenilirlik ve hız odaklı farklı çalışma prensiplerine sahip iki temel taşıma katmanı protokolüdür.
+
+- TCP bağlantı tabanlıdır ve veri iletiminden önce üçlü el sıkışma ile bağlantı kurar.
+- TCP, paket sıralamasını korur ve kaybolan paketleri yeniden göndererek güvenilirlik sağlar, ancak bu durum ek gecikme ve başlık yüküne yol açar.
+- UDP bağlantısız bir protokoldür; paketlerin ulaştığını kontrol etmez ve sıralama garantisi sunmaz.
+- UDP, düşük gecikmenin kayıpsız iletimden daha kritik olduğu görüntülü görüşme ve çevrim içi oyunlarda tercih edilir.","TCP ve UDP, taşıma katmanında çalışan ve farklı kullanım amaçlarına sahip iki temel protokoldür.
+
+- TCP bağlantı tabanlıdır; üçlü el sıkışma ile bağlantı kurar, paket sıralamasını korur ve kaybolan paketleri yeniden göndererek güvenilirlik sağlar ancak ek gecikmeye yol açar.
+- UDP bağlantısız bir protokoldür; paketlerin ulaşımını kontrol etmez ve sıralama garantisi vermez.
+- Düşük gecikmenin kayıpsız iletimden daha önemli olduğu görüntülü görüşme ve çevrim içi oyunlar gibi uygulamalarda UDP tercih edilir.","TCP ve UDP, taşıma katmanında çalışan ve farklı kullanım alanlarına sahip iki temel protokoldür.
+
+- TCP, üçlü el sıkışma ile bağlantı kuran, paket sıralamasını koruyan ve kayıp paketleri yeniden gönderen güvenilir ancak daha yavaş bir protokoldür.
+- UDP, bağlantısız çalışan, paket ulaşımını kontrol etmeyen ve sıralama garantisi vermeyen bir yapıdır.
+- Güvenilirlik sağlayan TCP, ek gecikme ve başlık yükü getirir.
+- Düşük gecikmenin kayıpsız iletimden daha önemli olduğu görüntülü görüşme ve çevrim içi oyunlar gibi uygulamalarda UDP tercih edilir."
+T4,v1,0.8,"**Özet:**
+
+Fakülte öğrencileri için 2026-2027 Bahar dönemi ders kayıtları **2-6 Şubat 2027**, ekleme-bırakma işlemleri ise **16-20 Şubat 2027** tarihleri arasında yapılacaktır. Geçerli bir kayıt için sürecin danışman onayıyla yürütülmesi zorunludur.","**Özet:**
+
+Fakülte öğrencileri için 2026-2027 Bahar dönemi ders kayıtları **2-6 Şubat 2027** tarihleri arasında, ekleme-bırakma işlemleri ise **16-20 Şubat 2027** tarihleri arasında yapılacaktır. Geçerli bir kayıt için öğrencilerin süreci danışmanlarıyla koordineli yürütmesi ve danışman onayı alması zorunludur.","**Özet:**
+
+Fakülte öğrencileri için 2026-2027 Bahar dönemi ders kayıtları **2-6 Şubat 2027**, ders ekleme-bırakma işlemleri ise **16-20 Şubat 2027** tarihleri arasında yapılacaktır. Öğrencilerin kayıtlarının geçerli sayılması için süreci danışmanlarıyla koordineli yürütmeleri ve onay almaları gerekmektedir."
+T4,v2,0.83,"2026-2027 Bahar dönemi ders kayıtları ile ekleme-bırakma süreçlerinin tarihleri ve uyulması gereken kurallar belirlenmiştir.
+
+- Ders kayıtları 2-6 Şubat 2027 tarihleri arasında yapılacaktır.
+- Ders ekleme-bırakma işlemleri 16-20 Şubat 2027 tarihleri arasında gerçekleştirilecektir.
+- Danışman onayı alınmayan kayıtlar geçersiz sayılacaktır.
+- Öğrencilerin kayıt sürecini danışmanları ile koordineli şekilde yürütmesi gerekmektedir.","2026-2027 Bahar dönemi ders kayıtları ve ekleme-bırakma süreçleri ile danışman onayı zorunluluğu belirlenmiştir.
+
+- Ders kayıtları 2 Şubat 2027 ile 6 Şubat 2027 tarihleri arasında yapılacaktır.
+- Ders ekleme-bırakma işlemleri 16-20 Şubat 2027 tarihleri arasında gerçekleştirilecektir.
+- Danışman onayı alınmayan kayıtlar geçersiz sayılacaktır.
+- Öğrencilerin kayıt sürecini danışmanları ile koordineli şekilde yürütmesi gerekmektedir.","2026-2027 Bahar dönemi ders kayıtları ve ekleme-bırakma süreçlerinin tarihleri ile uyulması gereken kurallar belirlenmiştir.
+
+- Ders kayıtları 2-6 Şubat 2027 tarihleri arasında yapılacaktır.
+- Ders ekleme-bırakma işlemleri 16-20 Şubat 2027 tarihleri arasında gerçekleştirilecektir.
+- Danışman onayı alınmayan kayıtlar geçersiz sayılacaktır.
+- Öğrencilerin kayıt sürecini danışmanları ile koordineli şekilde yürütmesi gerekmektedir."

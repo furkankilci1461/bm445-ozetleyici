@@ -1,0 +1,38 @@
+﻿test_id,mod,girdi_kelime,cikti_kelime,oran,cikti
+T1,Özetle,59,41,0.69,"Yeni şehir kütüphanesi 15 Kasım'da 85 milyon lira maliyetle hizmete açılıyor.
+
+- 2.500 metrekarelik alanda 40.000 kitap ve 120 kişilik çalışma salonu yer alıyor.
+- Hafta içi 08.00-22.00, hafta sonu 10.00-18.00 saatleri arasında açık olacak.
+- Proje tamamen belediye bütçesinden karşılandı."
+T2,Özetle,59,38,0.64,"Fotosentez, ışık enerjisiyle su ve karbondioksiti glikoz ile oksijene dönüştüren hayati bir biyokimyasal süreçtir.
+
+- Kloroplastlardaki klorofil pigmenti sayesinde gerçekleşir.
+- Işığa bağımlı ve ışıktan bağımsız (Calvin döngüsü) olmak üzere iki aşamada yürür.
+- Atmosferdeki oksijenin temel kaynağıdır."
+T3,Özetle,70,53,0.76,"TCP güvenilir ve bağlantı tabanlı veri iletimi sağlarken, UDP düşük gecikmeli ama kontrolsüz iletim sunar.
+
+- TCP, üçlü el sıkışma ile bağlantı kurar ve kayıp paketleri yeniden gönderir.
+- TCP'nin güvenilirliği ek gecikme ve başlık yükü yaratır.
+- UDP bağlantısızdır, paket kontrolü yapmaz ve düşük gecikme gerektiren görüntülü görüşme ile oyunlarda tercih edilir."
+T4,Özetle,47,24,0.51,"2026-2027 Bahar dönemi ders kayıtları ve ekleme-bırakma takvimi duyuruldu.
+
+- Ders kayıtları: 2-6 Şubat 2027
+- Ekleme-bırakma: 16-20 Şubat 2027
+- Danışman onayı zorunludur."
+T5,Özetle,44,40,0.91,"Hafta sonu hava durumu nedeniyle Şile gezisi pazar günü günübirlik olarak planlandı.
+
+- Cumartesi yağmur beklendiği için pazar sabahı erkenden gidilip akşam dönülecek.
+- Ulaşım Mert'in arabasıyla sağlanacak ve benzin masrafı paylaşılacak.
+- Katılmak istemeniz durumunda önceden haber verilmesi gerekiyor."
+T6,Özetle,59,52,0.88,"Coral reefs support a quarter of marine species, but rising sea temperatures threaten their survival through coral bleaching.
+
+- Cover less than one percent of the ocean floor.
+- High temperatures cause corals to expel algae and turn white.
+- Persistent heat leads to coral death, endangering dependent ecosystems and coastal communities."
+T7,Özetle,39,27,0.69,"Düzenli uyku, beynin öğrenilen bilgileri pekiştirmesini sağlayarak öğrenme ve hafızayı olumlu yönde etkiler.
+- Beyin, uyku sırasında günlük bilgileri pekiştirir.
+- Sınav öncesi uykusuzluk verimi artırmaz, düşürür."
+T8,Özetle,10,10,1.0,Yarınki toplantı saat 10.00'da B blok 204 numaralı sınıfta yapılacaktır.
+T6,Sadeleştir,59,62,1.05,"Coral reefs cover less than one percent of the ocean floor. But they support about a quarter of all marine species. Rising sea temperatures cause coral bleaching. This is a process where corals expel the algae living in their tissues and turn white. If high temperatures continue, the corals can die. This threatens the ecosystems and coastal communities that depend on them."
+T6,Akademik dile çevir,59,69,1.17,"Coral reefs cover less than one percent of the ocean floor, yet they support approximately a quarter of all marine species. Rising sea temperatures induce coral bleaching, a phenomenon whereby corals expel the symbiotic algae residing within their tissues, resulting in a white discoloration. Consequently, prolonged exposure to elevated temperatures can lead to coral mortality, thereby posing a significant threat to both the dependent marine ecosystems and coastal communities."
+T6,Günlük dile çevir,59,63,1.07,"Coral reefs cover less than one percent of the ocean floor, but they actually support about a quarter of all marine species. Rising sea temperatures cause coral bleaching, which is when corals push out the algae living in their tissues and turn white. If the high temperatures continue, the corals can die. That threatens the ecosystems and coastal communities that depend on them."
